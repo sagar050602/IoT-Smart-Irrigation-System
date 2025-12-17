@@ -1,4 +1,6 @@
 # IoT-Smart-Irrigation-System
+ESP8266-based smart irrigation system with ADC soil moisture sensing and relay-controlled pump, validated using Proteus simulation and designed for IoT cloud integration.
+
 # IoT Smart Irrigation System (Proteus Simulation)
 
 ## Overview
