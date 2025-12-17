@@ -24,6 +24,13 @@ Functional validation of sensor logic and relay control is performed using Prote
 - Blynk IoT Platform (design-level)
 - Relay driver (2N2222 + 1N4007)
 
+## Firmware Notes
+- Written for ESP8266 NodeMCU
+- Uses ADC (A0) for soil moisture sensing
+- Relay controlled via GPIO D1
+- Designed for Blynk cloud integration
+- Tested logic flow using Proteus simulation
+
 ## Note
 Wi-Fi and cloud communication are part of the firmware design.
 Due to simulation limitations, IoT connectivity is not executed in Proteus.
